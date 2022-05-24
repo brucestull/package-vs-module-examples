@@ -1,6 +1,6 @@
 # Example Python Interpreter Commands
 
-1. Start python shell:  
+1. Start python interpreter:  
     `python`
     ```
     PS C:\Users\User\Programming\package-vs-module-examples\basic_example> python
